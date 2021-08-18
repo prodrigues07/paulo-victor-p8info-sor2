@@ -1,3 +1,3 @@
-# Atividade 01
-Criação da Conta na CISCO Academy
-Instalação do Packet Tracer
+# Atividade 01 - Presença
+## Criar uma conta no  Cisco Academy
+## Evidenciar a com PDF o registro da Conta postado do Github atividades-presenca/presença-01.
